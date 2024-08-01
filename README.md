@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-almeida-168441218/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanlks)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ![renanlks GitHub Stats](https://github-readme-stats.vercel.app/api?username=renanlks&show_icons=true&theme=synthwave)
 
