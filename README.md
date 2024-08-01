@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanlks)](https://github.com/anuraghazra/github-readme-stats)
 
-![renanlks GitHub Stats](https://github-readme-stats.vercel.app/api?username=renanlks&show_icons=true&theme=synthwave)
+![renanlks GitHub Stats](https://github-readme-stats.vercel.app/api?username=renanlks&show_icons=true&theme=dracula)
 
 ## Minhas tecnologias
 <div style="display: inline_block"><br/>
