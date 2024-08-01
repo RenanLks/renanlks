@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Renan, desenvolvedor de front-end 👩🏻‍💻
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielle-gon%C3%A7alves-b48336165/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-almeida-168441218/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gooncalvesgaby)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanlks)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Renan GitHub Stats](https://github-readme-stats.vercel.app/api?username=Renan&show_icons=true&theme=synthwave)
 
