@@ -17,4 +17,4 @@
   
 </div><br/>
 
-Ingressei na faculdade agora nesse segundo semestre de 2024, procuro por um estágio pra poder praticar e aprender da melhor forma.
+Ingressei na faculdade agora nesse segundo semestre de 2024, procuro por um estágio pra poder praticar e aprender 🙌
